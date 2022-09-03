@@ -23,3 +23,4 @@
   * [🪛 Settings](controlly-api/api-reference/settings.md)
   * [⬆ Updates](controlly-api/api-reference/updates.md)
   * [❗ Changelog](controlly-api/api-reference/changelog.md)
+  * [🔧 Setup](controlly-api/api-reference/setup.md)
