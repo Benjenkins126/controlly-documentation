@@ -32,4 +32,4 @@
 ## Controlly API
 
 * [API Reference](controlly-api/api-reference/README.md)
-  * [Notifications](controlly-api/api-reference/notifications.md)
+  * [🔔 Notifications](controlly-api/api-reference/notifications.md)

@@ -2,7 +2,7 @@
 description: Here you can find the endpoints related to Notifications on Controlly
 ---
 
-# Notifications
+# 🔔 Notifications
 
 ## Creating a notification
 
