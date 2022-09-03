@@ -2,7 +2,7 @@
 description: Here you can find the endpoints related to Notifications on Controlly
 ---
 
-# 🔔 Notifications
+# 🔔 Notification
 
 ## Creating a notification
 
@@ -88,7 +88,7 @@ Retrieve all active notifications that have not been dismissed
 
 ## Dismissing notifications
 
-{% swagger method="delete" path="/notification/" baseUrl="https://your-ip-address:4083/api/v1" summary="Dismiss a notification" %}
+{% swagger method="delete" path="/notification" baseUrl="https://your-ip-address:4083/api/v1" summary="Dismiss a notification" %}
 {% swagger-description %}
 Dismissing a notification will remove it from the SQLite Database resulting in it being hidden to the end-user
 {% endswagger-description %}
