@@ -72,10 +72,6 @@ Start a systems health check and return the results to the end-user during the s
 {
     "status": "success",
     "results": {
-        "externalNetwork": {
-            status: false,
-            message: "Your Controlly instance cannot be accessed externally to your home network. This might be intentional"
-        },
         "webServerConfiguration": {
             status: true,
             message: "Your Controlly Web Server is setup successfully."
