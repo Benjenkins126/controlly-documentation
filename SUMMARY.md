@@ -4,23 +4,26 @@
 
 ## Guides
 
+* [Installing Controlly](guides/installing-controlly.md)
 * [Securing Your Smart Home](guides/securing-your-smart-home.md)
 
-## Controlly API
+## Developers
 
-* [API Reference](controlly-api/api-reference/README.md)
-  * [🔔 Notification](controlly-api/api-reference/notification.md)
-  * [🧑 User](controlly-api/api-reference/user.md)
-  * [🔎 Search](controlly-api/api-reference/search.md)
-  * [🖥 Dashboard](controlly-api/api-reference/dashboard.md)
-  * [🔌 Device](controlly-api/api-reference/device.md)
-  * [⚒ Group](controlly-api/api-reference/group.md)
-  * [🔁 Automation](controlly-api/api-reference/automation.md)
-  * [🏗 Widget](controlly-api/api-reference/widget.md)
-  * [🔗 Integration](controlly-api/api-reference/integration.md)
-  * [🖌 Theme Configuration](controlly-api/api-reference/theme-configuration.md)
-  * [🎮 Display Controller](controlly-api/api-reference/display-controller.md)
-  * [🪛 Settings](controlly-api/api-reference/settings.md)
-  * [⬆ Updates](controlly-api/api-reference/updates.md)
-  * [❗ Changelog](controlly-api/api-reference/changelog.md)
-  * [🔧 Setup](controlly-api/api-reference/setup.md)
+* [Custom Integrations](developers/custom-integrations.md)
+* [Custom Widgets](developers/custom-widgets.md)
+* [API Reference](developers/api-reference/README.md)
+  * [🔔 Notification](developers/api-reference/notification.md)
+  * [🧑 User](developers/api-reference/user.md)
+  * [🔎 Search](developers/api-reference/search.md)
+  * [🖥 Dashboard](developers/api-reference/dashboard.md)
+  * [🔌 Device](developers/api-reference/device.md)
+  * [⚒ Group](developers/api-reference/group.md)
+  * [🔁 Automation](developers/api-reference/automation.md)
+  * [🏗 Widget](developers/api-reference/widget.md)
+  * [🔗 Integration](developers/api-reference/integration.md)
+  * [🖌 Theme Configuration](developers/api-reference/theme-configuration.md)
+  * [🎮 Display Controller](developers/api-reference/display-controller.md)
+  * [🪛 Settings](developers/api-reference/settings.md)
+  * [⬆ Updates](developers/api-reference/updates.md)
+  * [❗ Changelog](developers/api-reference/changelog.md)
+  * [🔧 Setup](developers/api-reference/setup.md)
