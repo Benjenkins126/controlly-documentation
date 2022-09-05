@@ -13,12 +13,12 @@ Please refer to our Widget, Automation and Integration creation process if you w
 
 ## Authentication
 
-To access the API all requests must be authenticated using BASIC authentication. Passwords must be provided encrypted using an MD5 hash.
+To access the API all requests must be authenticated using the x-access-token header. You can retrieve your access token by calling /api/v1/user/sign-in [#user](./#user "mention")
 
 #### Example Authentication Header
 
 ```
-"Authorization: Basic (USERNAME):(ENCRYPTED_PASSWORD)"
+"x-access-token: (Access_Token)"
 ```
 
 ## Notifications
